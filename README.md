@@ -3,9 +3,9 @@
 A web application built with Go/.NET and .NET.
 
 ## Tech Stack
-- **Backend:** Go or .NET
-- **Frontend:** .NET
-- **Styling:** Tailwind CSS (planned)
+- **Backend:** .NET
+- **Frontend:** Blazor
+- **Database:** SQL lite
 
 ## Getting Started
 
